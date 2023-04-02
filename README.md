@@ -1,4 +1,4 @@
-Mad Libs Game
+Mad Libs Game C#
 
 
 Welcome to the Mad Libs Game! This simple console application lets you create hilarious and nonsensical stories by inputting different words based on the prompts given. The game is built using C# and runs on the .NET platform.
