@@ -16,7 +16,7 @@ To get started with the Mad Libs Game, simply clone the repository or download t
 
 bash
 Copy code
-git clone https://github.com/yourusername/Garrett-Carinci/Mad-Libs-Game.git
+git clone https://github.com/GarrettCarinci/Mad-Libs-Game
 
 
 Prerequisites
